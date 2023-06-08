@@ -1,0 +1,627 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
+}
+.navbar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+ }
+.part1{
+    width: 50%;
+    height: 110px;
+    display: flex;
+    align-items: center;
+    list-style: none;
+} 
+.part1 img{
+    width: 90px;
+    padding-left: 20px;
+    
+}
+.part1 li{
+    margin-left: 40px;
+    font-size: 17px;
+    color:black;
+    font-weight: bold;
+}
+.part2{
+    width: 50%;
+    height:110px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left:250px;
+
+}
+hr{
+    width: 100%;
+    height: 5px;
+    background-color:gainsboro;
+    
+}
+.divv{
+    width: 100%;
+    height:30px;
+}
+.part2 li{
+    margin-left: 15px;
+    font-weight:620;
+
+}
+.btn{
+    width: 80px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-style: none;
+    background-color: white;
+    color: black;
+    padding-bottom: 3px;
+    margin-left:50px;
+    font-size: 15px;
+
+
+}
+.btn1{
+    width: 94px;
+    height: 33px;
+    border-radius: 20px;
+    border-style: none;
+    background-color:black;
+    color:white;
+    padding-bottom: 3px;
+    margin-left: 20px;
+    font-size: 15px;
+
+
+}
+.p
+.part2 li{
+  display: flex;
+  justify-content: center;
+
+}
+
+   /* =====second section (find your adventure)======= */
+
+.second-section{
+    width: 100%;
+    height: 530px;
+    display: flex;
+    
+}
+.sec-1{
+    width:50%;
+    background-color:#006241;
+    color: white;
+    text-align: center;
+}
+.sec-1 h1{
+    margin-top: 70px;
+    font-size: 55px;
+    
+}
+.sec-1 p{
+    margin: 22px;
+    font-size:24px;
+}
+.sec-1 button{
+    width: 100px;
+    height: 35px;
+    margin-top: 15px;
+    border-radius: 18px;
+    border-style: none;
+    border: 1px solid white;
+    background-color: #006241;
+    color: white;
+    font-size: 17px;
+    padding-bottom: 3px;
+    font-weight:650;
+}
+.sec-2{
+    width: 50%;
+    height: auto;
+   background-image: url(137-84026.jpg);
+  background-size: cover;
+}
+
+ /* =========third div white background======  */
+
+.white-div{
+    width: 100%;
+    height: 30px;
+    background-color:white;
+}
+
+/* =========forth div white a new blend======  */
+.forth-section{
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+.section-1{
+    width: 50%;
+    background-image: url(137-84097-2.webp);
+    background-position: center;
+    background-size: cover;
+}
+.section-2{
+    width:50%;
+    background-color:#006241;
+    color: white;
+    text-align: center;
+}
+.section-2 h2{
+    margin-top: 50px;
+    font-size: 50px;
+}
+.section-2 p{
+    margin: 22px;
+    font-size:24px;
+}
+.order{
+    width: 100px;
+    height: 35px;
+    margin-top: 15px;
+    border-radius: 18px;
+    border-style: none;
+    border: 1px solid white;
+    background-color: #006241;
+    color: white;
+    font-size: 17px;
+    padding-bottom: 3px;
+    font-weight:650;
+}
+
+  /* ============SIXTH PART (FIND YOUR ENJOY)======= */
+
+.division-1{
+    width:50%;
+    background-color:#D4E9E2;
+    color:#1E3932;
+    text-align: center;
+}
+.division-1 h6{
+    margin-top: 100px;
+    font-size: 50px;
+}
+.division-1 p{
+    font-size:24px;
+    margin-top: 10px;
+}
+.bts{
+    width: 110px;
+    height: 35px;
+    margin-top:30px;
+    border-radius: 18px;
+    border-style: none;
+    border: 1px solid #1E3932;
+    color: #1E3932;
+    font-size: 17px;
+    padding-bottom: 3px;
+    font-weight:650;
+    background-color:#D4E9E2;
+
+}
+
+/* =========seven div (shaken with sunshine)======  */
+
+.eight-section{
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+.row-1{
+    width: 50%;
+    background-image: url(drinks.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.row-2{
+    width:50%;
+    background-color:#EB8185;
+    color: black;
+    text-align: center;
+}
+.row-2 h2{
+    margin-top: 50px;
+    font-size: 50px;
+}
+.row-2 p{
+    margin: 22px;
+    font-size:24px;
+}
+.orders{
+    width: 100px;
+    height: 35px;
+    margin-top: 15px;
+    border-radius: 18px;
+    border-style: none;
+    border: 1px solid black;
+    background-color:#EB8185;
+    color:black;
+    font-size: 17px;
+    padding-bottom: 3px;
+    font-weight:650;
+}
+
+/* ============TEN PART (MAY IS MILITARY)======= */
+
+.col-1{
+    width:50%;
+    height: 400px;
+    background-color:#F0F0EA;
+    color:#000000DE;
+    text-align: center;
+}
+.col-1 h6{
+    margin-top: 130px;
+    font-size: 30px;
+}
+.col-1 p{
+    font-size:22px;
+    margin-top:25px;
+}
+.col-2{
+    width:50%;
+    height: 400px;
+    background-image: url(always.jpg);
+}
+.send{
+    width: 130px;
+    height: 35px;
+    margin-top:40px;
+    border-radius: 18px;
+    border-style: none;
+    border: 1px solid #000000DE;
+    color:#000000DE;
+    font-size: 17px;
+    padding-bottom: 3px;
+    font-weight:650;
+    background-color:#F0F0EA;
+
+}
+
+/* ============ ELEVEN TEXT PART (text part)======= */
+
+.text{
+    width: 100%;
+}
+
+.text p{
+    width: 100%;
+    height: 150px;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+/* footer part code..... */
+
+.footer{
+width: 100%;
+background-color: black;
+ color:#696969;
+background-color: white;
+}
+ .listall{
+ width: 100%;
+ height: 500px;
+ display: flex;
+ list-style:none;
+ padding: 30px;
+ 
+}
+.about-us h2{
+ margin-top: 20px;
+ padding-bottom: 15px;
+ font-size:17px;
+ color: #000000DE;
+}
+.about-us li{
+ font-size: 18px;
+ margin-top: 18px;
+ list-style: none;
+}
+.careers h2{
+ margin-top: 20px;
+padding-bottom: 15px;
+ margin-left:90px;
+ font-size:17px;
+ color: #000000DE;
+}
+.careers li{
+ font-size: 18px;
+ margin-top: 18px;
+list-style: none;
+ margin-left:90px;
+
+}
+.social h2{
+ margin-top: 20px;
+ padding-bottom: 15px;
+ font-size:17px;
+ margin-left:100px;
+ color: #000000DE;
+ }
+.social li{
+font-size: 18px;
+ margin-top: 18px;
+ list-style: none;
+margin-left: 100px;
+
+}
+.forb h2{
+ margin-top: 20px;
+ padding-bottom: 15px;
+ font-size:17px;
+ margin-left:80px;
+ color: #000000DE;
+}
+.forb li{
+ font-size: 18px;
+ margin-top: 18px;
+ list-style: none;
+ margin-left: 80px;
+
+ }
+ .and h2{
+ margin-top: 20px;
+ padding-bottom: 15px;
+ font-size:17px;
+ margin-left:80px;
+ color: #000000DE;
+ }
+.and li{
+font-size: 18px;
+ margin-top: 18px;
+list-style: none;
+ margin-left: 80px;
+ }
+
+ /* ====last page ===== */
+
+ .tag{
+    width: 100%;
+    height: 200px;
+    background-color:white;
+ }
+ .icon-1{
+    width: 25%;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    padding-top: 30px;
+    
+ }
+ .icon-1 li{
+    width: 80px;
+    height: 30px;
+    border-radius:60%;
+    background-color:black;
+    color: white;
+    margin-left: 30px;
+    text-align: center;
+    padding-top: 3px;
+ }
+.icon-2{
+    width: 75%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    list-style: none;
+    color: #000000DE;
+    padding-left: 10px;
+}
+.tag p{
+    font-size: 15px;
+    color: #00000094;
+    padding-left: 30px;
+}
+
+/* ===========responsive code =========== */
+
+@media (max-width: 768px) {
+ .navbar{
+    width: 100%;
+ }
+ .part1 img{
+    width: 90px;
+ }
+ .part1 li{
+    display: none;
+ }
+ .part2{
+    width: 100%;
+ }
+ .part2 li{
+    display: none;
+ }
+ .btn{
+    width: 100%;
+    flex-direction: row;
+ }
+ .btn1{
+    display: none;
+ }
+
+/* =========second part (find your adventure)====== */
+.second-section{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  flex-direction: column-reverse;
+}
+.sec-1{
+    width: 100%;
+    height: auto;
+    
+   
+}
+.sec-1 h1{
+    position: relative; bottom:30px;
+
+}
+.sec-1 button{
+    position: relative; bottom: 30px;
+
+}
+.sec-1 p{
+    font-size:25px ;
+    position: relative; bottom:25px;
+  
+}
+.sec-2{
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    
+}
+.forth-section{
+    width: 100%;
+}
+.section-2 p{
+    display: none;
+}
+.second-section{
+    width: 100%;
+    height: auto;
+}
+.division-1 {
+    width: 100%;
+    height: auto;
+    
+}
+.division-1 h6{
+    position: relative; bottom:30px;
+}
+.division-1 p{
+  font-size:25px ;
+  position: relative; bottom:25px;
+
+}
+.bts{
+    position: relative; bottom: 20px;
+}
+.footer{
+    width: 100%;
+    height:auto;
+}
+.listall{
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+}
+ul li{
+    display: none;
+}
+.about-us {
+    padding-left: 110px;
+}
+.careers {
+    padding-left: 15px;
+}
+.social {
+    padding-right: 70px;
+}
+.forb{
+    padding-left: 20px;
+}
+.and{
+    padding-left: 20px;
+
+}
+.eight-section{
+    width: 100%;
+}
+.row-2 p{
+    display: none;
+}
+.row-2{
+    width: 100%;
+    height: auto;
+}
+.orders{
+    position: relative;top: 90px;
+}
+.second-section{
+    width: 100%;
+    height: auto;
+}
+.col-1 {
+    width: 100%;
+    height: auto;
+    
+}
+.col-1 h6{
+    position: relative; bottom:30px;
+}
+.col-1 p{
+  font-size:25px ;
+  position: relative; bottom:25px;
+
+}
+.col-2{
+    width: 100%;
+    height: 400px;
+}
+.send{
+    position: relative; bottom:25px;
+}
+.text{
+    width: 100%;
+    height: auto;
+}
+.text p{
+    font-size: 12px;
+    display: flex;
+    text-align: center;
+    position: relative; top:25px;
+    
+   
+}
+.tag{
+    width: 100%;
+    height: auto;
+}
+.icon-1{
+    width: 100%;
+    height: auto;
+}
+.icon-1 li{
+    width: 40px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icon-2 li{
+    display: none;
+}
+.tag p{
+    position: relative; bottom:30px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
